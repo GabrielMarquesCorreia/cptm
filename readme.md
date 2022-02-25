@@ -1,1 +1,1 @@
-![Isto é uma imagem](/cptmsite/img.jpg?raw=true "Optional Title")
+![Isto é uma imagem](/cptm/img.jpg?raw=true "cptmsite")
